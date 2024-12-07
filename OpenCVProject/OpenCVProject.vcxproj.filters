@@ -21,5 +21,11 @@
     <ClCompile Include="video.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="webcam.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="resize.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

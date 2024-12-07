@@ -133,7 +133,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="image.cpp" />
+    <ClCompile Include="resize.cpp" />
     <ClCompile Include="video.cpp" />
+    <ClCompile Include="webcam.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
