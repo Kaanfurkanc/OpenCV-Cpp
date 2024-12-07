@@ -30,3 +30,74 @@
 *.exe
 *.out
 *.app
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.vs/
+_ReSharper*/
+*.Rider*/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio Code files
+.vscode/
+
+# Rider files
+.idea/
+
+# Temporary files
+*.log
+*.tlog
+*.cache
+*.ilk
+*.pdb
+*.exp
+*.idb
+*.obj
+*.tmp
+*.tmp.*
+*.csproj.user
+
+# Visual Studio database files
+*.sdf
+*.mdf
+*.ldf
+*.ndf
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.eip
+
+# Visual Studio Code workspace settings
+*.code-workspace
+
+# Others
+*~.*
+*.pidb
+*.svclog
+.npm
+node_modules/
+
